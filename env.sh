@@ -1,0 +1,1 @@
+export SPARK_MASTER=10.142.0.6
